@@ -1,7 +1,8 @@
 {
   "deploy_settings": {
     "dinesh": {
-      "skill_id": "amzn1.ask.skill.1b015bdb-49ee-4979-8ab3-fbe302e36d6e",
+    \\ place your skill id here
+      "skill_id": "",
       "was_cloned": false,
       "merge": {
         "manifest": {
@@ -25,8 +26,8 @@
         },
         "lambda": [
           {
-            "arn": "arn:aws:lambda:us-east-1:437407113317:function:ask-custom-Cold-weather-helper-dinesh",
-            "functionName": "arn:aws:lambda:us-east-1:437407113317:function:ask-custom-Cold-weather-helper-dinesh",
+            "arn": "function arn",
+            "functionName": "function  name",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
