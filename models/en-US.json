@@ -1,0 +1,130 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "weather safety tips",
+            "intents": [{
+                    "name": "AboutIntent",
+                    "samples": [
+                        "about",
+                        "tell me about this disaster"
+                    ],
+                    "slots": []
+                },
+
+                {
+                    "name": "AboutColdIntent",
+                    "samples": [
+                        "about extreme cold",
+                        "about cold",
+                        "cold"
+
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "ExtremeColdSafetyIntent",
+                    "samples": [
+                        "safety",
+                        "safety tips",
+                        "cold weather safety tips"
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "AboutFloodIntent",
+                    "samples": [
+                        "about flood",
+                        "flood",
+                        "what is flood"
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "FloodSafetyIntent",
+                    "samples": [
+                        "flood safety tips"
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "HeatsafetyIntent",
+                    "samples": [
+                        "heat safety tips",
+                        "heat safety",
+                        "uv tips"
+                    ],
+                    "slots": []
+                },
+
+
+                {
+                    "name": "AboutheatIntent",
+                    "samples": [
+                        "heat",
+                        "about heat"
+
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "MoreheatsfetytipsIntent",
+                    "samples": [
+                        "more heat tips",
+                        "more heat safety tips",
+                        "more tips for heat"
+
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "MorecoldtipsIntent",
+                    "samples": [
+                        "more cold",
+                        "more cold tips"
+
+                    ],
+                    "slots": []
+                },
+                {
+                    "name": "MoreFloodtipsIntent",
+                    "samples": [
+                        "more flood safety",
+                        "more flood tips"
+
+                    ],
+                    "slots": []
+                },
+
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                }
+            ]
+        }
+    }
+}
